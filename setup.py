@@ -33,7 +33,7 @@ setup(
         'Topic :: Utilities',
     ],
     packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
-    namespace_packages=['deployment'],
+    namespace_packages=['flv'],
     include_package_data=True,
     zip_safe=False,
     install_requires=['Django>=1.3']
